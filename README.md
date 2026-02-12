@@ -39,4 +39,8 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
