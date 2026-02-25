@@ -50,6 +50,7 @@ My Leetcode Journey.
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -66,10 +67,12 @@ My Leetcode Journey.
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
