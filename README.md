@@ -7,6 +7,7 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1901-find-a-peak-element-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -22,6 +23,7 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ My Leetcode Journey.
 | [0101-symmetric-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,10 +72,15 @@ My Leetcode Journey.
 | [0101-symmetric-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
