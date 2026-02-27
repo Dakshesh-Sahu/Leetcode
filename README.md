@@ -8,6 +8,7 @@ My Leetcode Journey.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1901-find-a-peak-element-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ My Leetcode Journey.
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -55,6 +57,7 @@ My Leetcode Journey.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,6 +76,7 @@ My Leetcode Journey.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,4 +87,5 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
