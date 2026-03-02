@@ -45,6 +45,7 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ My Leetcode Journey.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -61,6 +63,7 @@ My Leetcode Journey.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -71,6 +74,7 @@ My Leetcode Journey.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
