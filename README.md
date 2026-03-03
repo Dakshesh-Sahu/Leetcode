@@ -9,6 +9,7 @@ My Leetcode Journey.
 | [0074-search-a-2d-matrix](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ My Leetcode Journey.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0097-interleaving-string) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
@@ -92,4 +94,8 @@ My Leetcode Journey.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
