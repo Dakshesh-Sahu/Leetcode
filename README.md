@@ -33,6 +33,7 @@ My Leetcode Journey.
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0087-scramble-string](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0097-interleaving-string) |
 ## Sliding Window
 |  |
@@ -43,6 +44,7 @@ My Leetcode Journey.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
