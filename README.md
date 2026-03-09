@@ -54,6 +54,7 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Tree
 |  |
@@ -106,4 +107,5 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
