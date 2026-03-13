@@ -12,11 +12,13 @@ My Leetcode Journey.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -105,6 +107,7 @@ My Leetcode Journey.
 | ------- |
 | [0055-jump-game](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +117,12 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+## Math
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
