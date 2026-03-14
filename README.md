@@ -37,6 +37,7 @@ My Leetcode Journey.
 | [0032-longest-valid-parentheses](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0087-scramble-string](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/0097-interleaving-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +126,8 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
