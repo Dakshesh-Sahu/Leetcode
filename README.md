@@ -121,6 +121,7 @@ My Leetcode Journey.
 ## Math
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
@@ -130,4 +131,12 @@ My Leetcode Journey.
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Dakshesh-Sahu/Leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
